@@ -5,9 +5,9 @@ const MonitorItem = (props) => {
 
     return(
         <div>
-            <h2>
+            <h3>
                 {label}
-            </h2>
+            </h3>
             <p>
                 {cases}
             </p>
